@@ -15,3 +15,6 @@ Steps to See the user interface this project
 11) Now from this project extract all the and put these files into the Netflix clone file
 12) Now open the terminal and write "npm run dev"
 13) then follow the link to open the project
+
+////////////////////////////////
+for understanding firebase code -> follow GreatStack project vedio
