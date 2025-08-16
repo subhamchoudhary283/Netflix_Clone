@@ -13,5 +13,5 @@ Steps to See the user interface this project
 9) Then write on terminal "npm install react-router-dom firebase react-toastify" To import the remaining dependencies
 10) Then delete all the files Except "node_modules"
 11) Now from this project extract all the and put these files into the Netflix clone file
-12) Now open the parmesan and write "npm run dev"
+12) Now open the terminal and write "npm run dev"
 13) then follow the link to open the project
